@@ -1,0 +1,7 @@
+@inproceedings{REPO053,
+    author = "Bhunia, Ankan Kumar and Khan, Salman and Cholakkal, Hisham and Anwer, Rao Muhammad and Laaksonen, Jorma and Shah, Mubarak and Khan, Fahad Shahbaz",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "5968--5976",
+    title = "{Person Image Synthesis via Denoising Diffusion Model}",
+    year = "2023"
+}
